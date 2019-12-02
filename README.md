@@ -2,6 +2,8 @@
 
 This repository hosts dynamic HTMLs for the Urban GIS Fall 2019 final presentation. The accompanying StoryMap is [here](). 
 
+## Individual Ward Sheets
+
 <a href="ward3.html">Ward 3</a>
 <a href="ward6.html">Ward 6</a>
 
